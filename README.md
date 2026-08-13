@@ -525,7 +525,6 @@ It includes:
 ```text
 AdventureWorks-Sales-Customer-Analytics/
 │
-├── Documentation/
 │
 ├── Powerbi/
 │   └── AdventureWorks_Sales_Customer_Analytics.pbix
